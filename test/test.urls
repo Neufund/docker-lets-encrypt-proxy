@@ -1,0 +1,7 @@
+https://172.17.0.2/A
+https://172.17.0.2/B
+https://172.17.0.2/C
+https://172.17.0.2/D
+https://172.17.0.2/E?X-Accel-Expires=1
+https://172.17.0.2/F?X-Accel-Expires=5
+https://172.17.0.2/G?X-Accel-Expires=10
